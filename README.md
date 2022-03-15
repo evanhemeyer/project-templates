@@ -1,0 +1,1 @@
+# Project templates to use when starting new apps
